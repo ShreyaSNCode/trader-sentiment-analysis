@@ -1,3 +1,5 @@
+🚀 End-to-end data science project combining trading data with market sentiment to derive actionable insights.
+
 # Trader Performance vs Market Sentiment Analysis
 
 ## 📌 Objective
@@ -13,15 +15,13 @@ Analyze how market sentiment (Fear/Greed) influences trader behavior, risk-takin
 
 ## ⚙️ Methodology
 
-1. Cleaned and standardized datasets  
-2. Converted timestamps and aligned data at daily level  
-3. Merged datasets on date  
-4. Engineered features:
-   - Profitability (PnL)
-   - Trade size (risk proxy)
-   - Win rate
-5. Performed behavioral and performance analysis  
-6. Built a simple predictive model (Random Forest)
+- Data cleaning and preprocessing  
+- Timestamp conversion and alignment  
+- Merging datasets on date  
+- Feature engineering (PnL, trade size, win rate)  
+- Behavioral and performance analysis  
+- Visualization and insights  
+- Predictive modeling (bonus)  
 
 ---
 
@@ -41,6 +41,13 @@ Analyze how market sentiment (Fear/Greed) influences trader behavior, risk-takin
 
 ---
 
+## 📊 Key Insights
+
+- Traders take higher risks during Fear but achieve lower returns  
+- Extreme Greed phases show highest profitability  
+- Trade size influences profitability more than sentiment
+
+  
 ## 🤖 Bonus: Predictive Model
 
 - Built a Random Forest model to predict trade profitability  
@@ -55,3 +62,9 @@ Analyze how market sentiment (Fear/Greed) influences trader behavior, risk-takin
 2. Install requirements:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+
+## 📊 Sample Visualizations
+
+![PnL](pnl_distribution.png)
+![Trade Size](trade_size.png)
+
