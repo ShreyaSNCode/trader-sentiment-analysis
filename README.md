@@ -1,5 +1,7 @@
 🚀 End-to-end data science project combining trading data with market sentiment to derive actionable insights.
 
+Key finding: Trader performance is driven more by risk management than sentiment alone.
+
 # Trader Performance vs Market Sentiment Analysis
 
 ## 📌 Objective
@@ -11,7 +13,8 @@ Analyze how market sentiment (Fear/Greed) influences trader behavior, risk-takin
 
 - Historical Trader Data (Hyperliquid): [https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view]
 - Bitcoin Market Sentiment (Fear/Greed Index): [https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view]
-- Note: Datasets are provided via external links due to size constraints.
+
+Note: Datasets are provided via external links due to size constraints.
 ---
 
 ## ⚙️ Methodology
@@ -57,6 +60,11 @@ Analyze how market sentiment (Fear/Greed) influences trader behavior, risk-takin
 
 ---
 
+## 📊 Sample Visualizations
+
+![PnL Distribution](pnl_distribution.png)
+![Trade Size](trade_size.png)
+
 ## ▶️ How to Run
 
 1. Download notebook  
@@ -64,8 +72,4 @@ Analyze how market sentiment (Fear/Greed) influences trader behavior, risk-takin
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 
-## 📊 Sample Visualizations
-
-![PnL](pnl_distribution.png)
-![Trade Size](trade_size.png)
 
