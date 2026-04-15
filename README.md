@@ -7,10 +7,10 @@ Analyze how market sentiment (Fear/Greed) influences trader behavior, risk-takin
 
 ---
 
-## 📂 Datasets
-- Historical Trader Data (Hyperliquid)
-- Bitcoin Market Sentiment (Fear/Greed Index)
+## 📂 Dataset Sources
 
+- Historical Trader Data (Hyperliquid): [https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view]
+- Bitcoin Market Sentiment (Fear/Greed Index): [https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view]
 ---
 
 ## ⚙️ Methodology
