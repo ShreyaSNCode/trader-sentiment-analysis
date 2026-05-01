@@ -108,13 +108,17 @@ Note: Datasets are provided via external links due to size constraints.
 
 ## 📊 Sample Visualizations
 
-![Confusion Matrix](images/confusion_matrix.png)
-
-![PnL Distribution](images/pnl_distribution.png)
-
+### 📊 Sentiment Distribution
 ![Sentiment Distribution](images/sentiment_distribution.png)
 
+### 💰 Profit Distribution
+![PnL Distribution](images/pnl_distribution.png)
+
+### 📦 Trade Size Analysis
 ![Trade Size](images/trade_size.png)
+
+### 🔍 Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
 
 -----
 
