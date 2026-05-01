@@ -4,6 +4,7 @@ Key finding: Trader performance is driven more by risk management than sentiment
 
 # 📈 NLP-Based Financial Sentiment Analysis for Market Insights
 
+> 📊 End-to-end data analysis project demonstrating how market sentiment impacts trading performance and decision-making.
 ----
 ## 🚀 Project Summary
 
@@ -108,17 +109,37 @@ Note: Datasets are provided via external links due to size constraints.
 
 ## 📊 Sample Visualizations
 
+---
+
 ### 📊 Sentiment Distribution
 ![Sentiment Distribution](images/sentiment_distribution.png)
 
-### 💰 Profit Distribution
+- Majority of trades occur under **neutral sentiment**
+- Extreme sentiments are less frequent
+
+---
+
+### 💰 Profit Distribution by Sentiment
 ![PnL Distribution](images/pnl_distribution.png)
+
+- Profit varies significantly across sentiment categories  
+- Some categories show higher volatility
+
+---
 
 ### 📦 Trade Size Analysis
 ![Trade Size](images/trade_size.png)
 
+- Trade size differs across sentiment groups  
+- Indicates varying risk-taking behavior
+
+---
+
 ### 🔍 Confusion Matrix
 ![Confusion Matrix](images/confusion_matrix.png)
+
+- Correct predictions are balanced across classes  
+- Some misclassification exists, showing scope for improvement
 
 -----
 
