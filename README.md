@@ -140,6 +140,7 @@ Note: Datasets are provided via external links due to size constraints.
 
 - Correct predictions are balanced across classes  
 - Some misclassification exists, showing scope for improvement
+-  The model struggles slightly with class imbalance, indicating potential for feature engineering improvements
 
 -----
 
