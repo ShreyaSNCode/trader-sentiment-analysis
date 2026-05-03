@@ -1,8 +1,10 @@
-![Stars](https://img.shields.io/github/stars/ShreyaSNCode/nlp-trader-sentiment-analysis?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/ShreyaSNCode/nlp-trader-sentiment-analysis?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/ShreyaSNCode/nlp-trader-sentiment-analysis?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/ShreyaSNCode/nlp-trader-sentiment-analysis?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/ShreyaSNCode/nlp-trader-sentiment-analysis?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/github/stars/ShreyaSNCode/nlp-trader-sentiment-analysis?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/forks/ShreyaSNCode/nlp-trader-sentiment-analysis?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/issues/ShreyaSNCode/nlp-trader-sentiment-analysis?style=for-the-badge&color=green" />
+  <img src="https://img.shields.io/github/repo-size/ShreyaSNCode/nlp-trader-sentiment-analysis?style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/github/last-commit/ShreyaSNCode/nlp-trader-sentiment-analysis?style=for-the-badge&color=brightgreen" />
+</p>
 
 
 🚀 End-to-end data science project combining trading data with market sentiment to derive actionable insights.
